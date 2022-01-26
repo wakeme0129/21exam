@@ -6,5 +6,7 @@ function setCookie(cname,cvalue,exdays) {
   document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
 }
 
+let para = document.getElementById('para');
+para.addEventListener('click', setCookie("b1","正解です",30);
 
 
