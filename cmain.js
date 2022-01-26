@@ -6,7 +6,7 @@ function setCookie(cname,cvalue,exdays) {
   document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
 }
 
-setCookie("Web Technology b", "正解!", 3); 
+setCookie("Web Technology b", ", 3); 
 
 
 
